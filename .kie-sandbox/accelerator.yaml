@@ -1,0 +1,10 @@
+# This file was automatically created by BAMOE Canvas. Please don't modify it.
+name: Kogito BPMN
+iconUrl: >-
+  https://github.com/kiegroup/kie-sandbox-quarkus-accelerator/raw/0.0.0/quarkus-logo.png
+gitRepositoryUrl: https://github.com/ibm/bamoe-canvas-quarkus-accelerator
+gitRepositoryGitRef: 9.1.0-ibm-0001-quarkus-full
+dmnDestinationFolder: src/main/resources/dmn
+bpmnDestinationFolder: src/main/resources/bpmn
+otherFilesDestinationFolder: src/main/resources/others
+appliedAt: '2024-08-27T15:24:34.131Z'
